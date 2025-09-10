@@ -1,3 +1,4 @@
+[![Review Assignment Due Date](https://classroom.github.com/assets/deadline-readme-button-22041afd0340ce965d47ae6ef1cefeee28c7c493a6346c4f15d667ab976d596c.svg)](https://classroom.github.com/a/MoSxkwc_)
 # Coding Raspberry Pi Pico
 
 ## Objectives
@@ -53,6 +54,9 @@ Use $D_{max}$ as the maximal value for PWM signal's duty cycle.
 Please write out the equation of the duty cycle's **increment** value, $s$, below :point_down:
 
 > Type equation with LaTex syntax here.
+> ## LaTex Synatax
+> $$ s = \frac {D_{max}}{n} $$
+
 
 > [!TIP]
 > - Writing mathematical expressions [guide](https://docs.github.com/en/get-started/writing-on-github/working-with-advanced-formatting/writing-mathematical-expressions)
