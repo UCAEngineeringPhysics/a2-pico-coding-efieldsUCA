@@ -54,6 +54,9 @@ Use $D_{max}$ as the maximal value for PWM signal's duty cycle.
 Please write out the equation of the duty cycle's **increment** value, $s$, below :point_down:
 
 > Type equation with LaTex syntax here.
+> ## LaTex Synatax
+> $$ s = \frac {D_{max}}{n} $$
+
 
 > [!TIP]
 > - Writing mathematical expressions [guide](https://docs.github.com/en/get-started/writing-on-github/working-with-advanced-formatting/writing-mathematical-expressions)
